@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Tas Kagit Makas</string>
+    <string name="game_title">Taş Kağıt Makas</string>
+    <string name="choose_your_move">Hamlenizi Seçin</string>
+    <string name="rock">Taş</string>
+    <string name="paper">Kağıt</string>
+    <string name="scissors">Makas</string>
+    <string name="you">Sen</string>
+    <string name="computer">Bilgisayar</string>
+    <string name="result_win">Kazandın! 🎉</string>
+    <string name="result_lose">Kaybettin 😢</string>
+    <string name="result_draw">Berabere! 🤝</string>
+    <string name="reset_game">Yeni Oyun</string>
+    <string name="score">Skor</string>
 </resources>
